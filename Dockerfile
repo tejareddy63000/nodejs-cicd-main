@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["npm","package-lock.json"]
+CMD ["npm","run"]
